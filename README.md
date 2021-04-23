@@ -1,10 +1,10 @@
 # PFC1
 
 Utilizando as strings:
-"chatbot"and "deeplearning"na "saúde" no google escholar 29 trabalhos foram encontrado 24 não passarão pelos critérios de exclusão e seleção e 4 foram selecionados.
+"chatbot"and "deep learning"na "saúde" no google scholar 29 trabalhos foram encontrados 24 não passaram pelos critérios de exclusão e seleção e 4 foram selecionados.
 
-Ja na segunda string:
+Já na segunda string:
 
-chatbot no processode triagem médica: Utilizada no Google Scholar foram encontrados 67 trabalhos 66 foram exluidos pelos critérios de exclusão e inclusão e 1 foi selecionado.
+chatbot no processo de triagem médica: Utilizada no Google Scholar foram encontrados 67 trabalhos 66 foram excluídos pelos critérios de exclusão e inclusão e 1 foi selecionado.
 
-Neste repositório estão contidos os trabalho selecionados.
+Neste repositório estão contidos os trabalhos selecionados.
